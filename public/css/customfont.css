@@ -1,0 +1,53 @@
+@font-face {
+    font-family: 'RobotoRegular';
+    src: url('../fonts/roboto/Roboto-Regular.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'RobotoBold';
+    src: url('../fonts/roboto/Roboto-Bold.woff') format('woff');
+         
+}
+@font-face {
+    font-family: 'RobotoBC';
+    src: url('../fonts/roboto/Roboto-BoldCondensed.woff') format('woff');
+         
+}
+@font-face {
+    font-family: 'RobotoC';
+    src: url('../fonts/roboto/Roboto-Condensed.woff') format('woff');
+         
+}
+@font-face {
+    font-family: 'RobotoMedium';
+    src: url('../fonts/roboto/Roboto-Medium.woff') format('woff');
+         
+}
+@font-face {
+    font-family: 'RobotoBlack';
+    src: url('../fonts/roboto/Roboto-Black_1.woff') format('woff');
+}
+@font-face {
+    font-family: 'RobotoThin';
+    src: url('../fonts/roboto/Roboto-Thin.woff') format('woff');
+}
+@font-face {
+    font-family: 'Adelia';
+    src: url('../fonts/adelia/adelia_1.woff') format('woff');
+}
+@font-face {
+    font-family: 'CaviarRegular';
+    src: url('../fonts/caviardreams/CaviarDreams.woff') format('woff');
+}
+@font-face {
+    font-family: 'CaviarBold';
+    src: url('../fonts/caviardreams/CaviarDreams_Bold.woff') format('woff');
+}
+@font-face {
+    font-family: 'BeyondInfinity';
+    src: url('../fonts/beyondinfinity/Beyond-Infinity-Demo.woff') format('woff');
+}
+@font-face {
+    font-family: 'HelveticaLR';
+    src: url('../fonts/helvetica/HelveticaLightRegular.woff') format('woff');
+}

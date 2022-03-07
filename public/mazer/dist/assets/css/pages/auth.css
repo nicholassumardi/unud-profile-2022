@@ -1,0 +1,12 @@
+body{background-color:#fff}#auth{height:100vh;overflow-x:hidden}#auth #auth-right{background:url(../../images/bg/rumah-sakituniversitasudayanars-unud.jpg),linear-gradient(90deg,#2d499d,#3f5491);height:100%;; background-size:contain;}#auth #auth-left{padding:5rem 8rem}#auth #auth-left .auth-title{font-size:4rem;margin-bottom:1rem}#auth #auth-left .auth-subtitle{color:#a8aebb;font-size:1.7rem;line-height:2.5rem}#auth #auth-left .auth-logo{margin-bottom:2rem}#auth #auth-left .auth-logo img{height:3.4rem} @media screen and (max-width:767px){#auth #auth-left{padding:4rem}}@media screen and (max-width:576px){#auth #auth-left{padding:5rem 3rem}}
+
+@media (max-width:576px){
+    #auth #auth-left .auth-logo img{height:7rem}
+}
+
+@media (max-width:500px){
+    #auth #auth-left .auth-logo img{height:5rem}
+}
+@media (max-width:376px){
+    #auth #auth-left .auth-logo img{height:4.8rem}
+}

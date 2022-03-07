@@ -1,0 +1,177 @@
+.titleforlogin {
+    font-family: HelveticaLR;
+}
+
+.titlenavbar {
+    font-family: HelveticaLR;
+    color: #ffffff;
+    font-size: 13pt;
+}
+
+@media (width:1024px) {
+    .titlenavbar {
+        font-family: HelveticaLR;
+        color: #ffffff;
+        font-size: 11pt;
+    }
+
+}
+
+
+
+@media only screen and (min-height: 800px) {
+    .titlenavbar {
+        font-family: HelveticaLR;
+        color: #ffffff;
+        font-size: 15pt;
+    }
+
+}
+
+
+
+.fontfornavlink {
+    font-family: HelveticaLR;
+    color: #ffffff;
+    font-size: 2.2vh;
+}
+
+@media (width:1024px) {
+    .fontfornavlink {
+        font-family: HelveticaLR;
+        color: #ffffff;
+        font-size: 5pt;
+    }
+
+}
+
+@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) {
+    .fontfornavlink {
+        font-family: HelveticaLR;
+        color: #ffffff;
+        font-size: 8pt;
+    }
+}
+
+@media only screen and (min-height: 800px) {
+
+    .fontfornavlink {
+        font-family: HelveticaLR;
+        color: #ffffff;
+        font-size: 1.1vw;
+    }
+
+}
+
+@media only screen and (min-device-width: 768px) and (max-device-width: 968px)and (orientation : landscape) {
+    .fontfornavlink {
+        font-family: HelveticaLR;
+        color: #ffffff;
+        font-size: 1.1vw;
+    }
+}
+
+@media only screen and (device-width: 1024px)and (orientation : landscape) {
+    .fontfornavlink {
+        font-family: HelveticaLR;
+        color: #ffffff;
+        font-size: 0.8vw;
+    }
+}
+
+@media only screen and (min-device-width: 1025px) and (orientation : landscape) {
+    .fontfornavlink {
+        font-family: HelveticaLR;
+        color: #ffffff;
+        font-size: 0.9vw;
+    }
+}
+
+
+@media (max-width:560px) {
+    .fontfornavlink {
+        font-family: HelveticaLR;
+        color: #ffffff;
+        font-size: 15pt;
+    }
+}
+
+.custom-title-visimisi {
+    font-family: HelveticaLR;
+    font-size: 30pt;
+    color: #3d2548;
+    font-weight: bold;
+}
+
+.custom-title-allpage {
+    font-family: HelveticaLR;
+    font-size: 50pt;
+    /* color: #3d2548; */
+
+
+    background: -webkit-linear-gradient(360deg, rgb(63, 37, 69) 30%, rgb(155, 124, 197) 100%);
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+
+}
+
+.custom-title-news {
+    font-family: HelveticaLR;
+    font-size: 5vw;
+    color: #3d2548;
+}
+
+.custom-content-visimisi {
+    font-family: HelveticaLR;
+    font-size: 10pt;
+    color: #3d2548;
+}
+
+.custom-content-visimisi-sub {
+    font-family: HelveticaLR;
+    font-size: 15pt;
+    color: #3d2548;
+}
+
+.custom-title-profile {
+    font-family: HelveticaLR;
+    color: #3d2548;
+    font-size: 15pt;
+}
+
+.custom-content-profile {
+    z-index: 55;
+    position: absolute;
+    font-family: HelveticaLR;
+    color: white;
+    font-size: 16pt;
+}
+
+.custom-name-staf {
+    font-size: 2vw;
+}
+
+.custom-birth-staf {
+    font-size: 1vw;
+}
+
+.custom-date {
+    font-size: 1.4vw;
+}
+
+.custom-news-title {
+    font-weight: bold;
+    font-size: 2vw;
+    text-transform: uppercase;
+}
+
+.custom-date2 {
+    color: #3d2548;
+    font-weight: bolder;
+    font-size: 12pt;
+}
+
+.custom-news-content {
+    font-weight: 600;
+    color: #3d2548;
+}
